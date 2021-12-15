@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maheshhr
-- 👀 I’m interested in ... python developer
-- 🌱 I’m currently learning ...FULL STACK DEVELOPMENT
+- 👀 I’m interested in ... Technology 
+- 🌱 I’m know ...FULL STACK DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...hrmahesh369@gmail.com
 
